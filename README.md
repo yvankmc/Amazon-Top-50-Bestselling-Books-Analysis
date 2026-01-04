@@ -4,6 +4,10 @@ This project performs an end-to-end exploratory data analysis (EDA) on Amaazon t
 
 The analysis covers feature exploration, visualization, and insight generation using Python and popular data analysis libraries.
 
+Please note the improvement with this compared to my Youtube Data Analysis project made in July 2025!
+
+Thank you for viewing!
+
 # Objective
 
 The main goal was to answer these questions:
@@ -58,6 +62,11 @@ The dataset includes information such as:
    <img width="1512" height="525" alt="avg_price" src="https://github.com/user-attachments/assets/4a11410f-c206-4a83-a872-7ecb60383e6c" />
     
    Overtime, the average price of bestselling books has decreased with it being $15.40 in 2009 and $10.08 in 2019.
+
+# 4. Author Appearence Frequency:
+   <img width="1512" height="525" alt="authordomination" src="https://github.com/user-attachments/assets/844cd797-fcaa-4513-8552-7783ccc18bbc" />
+
+   Authors like Jeff Kinney and Rick Riordan are often bestsellers with their book series Diary of a Wimpy Kid and Percy Jackson, highlighting their strong influence and fanbase loyalty.
 
 # 🛠️ Tools & Technologies
 
