@@ -10,7 +10,7 @@ The main goal was to answer these questions:
 
 1. How do Fiction and Non-Fiction books differ in average user ratings over time?
 
-2. Is there a relationship between a book’s price and its average user rating?
+2. How does a book's price affect how much people like it?
 
 3. How has the average price of bestselling books changed over the years?
  
@@ -42,11 +42,18 @@ The dataset includes information such as:
 
 1. Fiction & Non-Fiction Average User Ratings:
    
-   <img width="1512" height="512" alt="genre_comparison" src="https://github.com/user-attachments/assets/d00827f6-b115-49f2-b173-06547bed7966" />
+   <img width="1512" height="525" alt="genre_comparison" src="https://github.com/user-attachments/assets/d00827f6-b115-49f2-b173-06547bed7966" />
 
    Fiction books seem to be more favored with them usually having a higher average user rating, meaning they are more liked. However, for a brief period of time from 2012-2015
    Non-Fiction books seemed to be very liked because they had a higher average user rating more often compared to Fiction.
 
+2. Price & Likeablity:
+
+   <img width="1512" height="525" alt="rating_price" src="https://github.com/user-attachments/assets/0d648890-172e-4e00-9e36-87b637f66bb0" />
+
+   According to the graph, when books are under around 20 dollars, they usually get high user ratings and most of the books on the Best Sellers list are in the price range.
+
+   
    
 
 # 🛠️ Tools & Technologies
