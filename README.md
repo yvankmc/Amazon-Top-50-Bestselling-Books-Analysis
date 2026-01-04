@@ -38,11 +38,14 @@ The dataset includes information such as:
 
   Genre
 
-# 📊 Analysis Findings & Visualizations
+# 📊 Analysis Findings & Data Visualizations
 
 1. Fiction & Non-Fiction Average User Ratings:
    
-   <img width="756" height="260.5" alt="genre_comparison" src="https://github.com/user-attachments/assets/d00827f6-b115-49f2-b173-06547bed7966" />
+   <img width="1512" height="512" alt="genre_comparison" src="https://github.com/user-attachments/assets/d00827f6-b115-49f2-b173-06547bed7966" />
+
+   Fiction books seem to be more favored with them usually having a higher average user rating, meaning they are more liked. However, for a brief period of time from 2012-2015
+   Non-Fiction books seemed to be very liked because they had a higher average user rating more often compared to Fiction.
 
    
 
