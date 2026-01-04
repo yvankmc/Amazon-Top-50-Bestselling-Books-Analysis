@@ -42,7 +42,7 @@ The dataset includes information such as:
 
 1. Fiction & Non-Fiction Average User Ratings:
    
-   <img width="1300" height="500" alt="genre_comparison" src="https://github.com/user-attachments/assets/d00827f6-b115-49f2-b173-06547bed7966" />
+   <img width="756" height="260.5" alt="genre_comparison" src="https://github.com/user-attachments/assets/d00827f6-b115-49f2-b173-06547bed7966" />
 
    
 
